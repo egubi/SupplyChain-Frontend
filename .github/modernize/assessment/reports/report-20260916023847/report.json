@@ -655,7 +655,7 @@
   "projects": [
     {
       "properties": {
-        "repo": "SupplyChain Frontend",
+        "repo": "supplychain-frontend",
         "appName": "supplychain-frontend",
         "languages": [
           "Java"

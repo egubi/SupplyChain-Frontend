@@ -1,4 +1,4 @@
-# SupplyChain Frontend
+# supplychain-frontend
 
 ## Summary
 
@@ -8,6 +8,9 @@
 | Mandatory Blockers | 45 |
 | Potential Issues | 0 |
 | Optional Issues | 1 |
+| Total Effort | 53 story points |
+
+> **Assessment scope:** Core assessment was unavailable because no assessment MCP tool is configured; this is a security-only report.
 
 ## Component Information
 
