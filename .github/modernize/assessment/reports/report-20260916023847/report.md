@@ -5,7 +5,7 @@
 | Metric | Value |
 |--------|-------|
 | Total Issues | 46 |
-| Mandatory Blockers | 45 |
+| Mandatory Issues | 45 |
 | Potential Issues | 0 |
 | Optional Issues | 1 |
 | Total Effort | 53 story points |
