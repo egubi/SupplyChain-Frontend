@@ -2,7 +2,7 @@
   "metadata": {
     "id": "20260916023847",
     "generated_at": "2026-09-16T02:38:47.0000000Z",
-    "note": "Security-only report (AppCAT was not run or failed)"
+    "note": "Security-only report: core assessment was unavailable because no assessment MCP tool is configured."
   },
   "security": [
     {
@@ -147,15 +147,15 @@
     },
     {
       "id": "CVE-2026-41284",
-      "title": "Apache Tomcat: Unbounded read in WebDAV LOCK and  PROPFIND handling",
+      "title": "Apache Tomcat: Unbounded read in WebDAV LOCK and PROPFIND handling",
       "category": "CVE",
       "severity": "mandatory",
-      "description": "[CVE-2026-41284](https://github.com/advisories/GHSA-gx5v-xp9w-j4cg): Apache Tomcat: Unbounded read in WebDAV LOCK and  PROPFIND handling\n\nSeverity: HIGH\n\nAffected dependencies:\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 9.0.118 or later\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 10.1.55 or later\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 11.0.22 or later",
+      "description": "[CVE-2026-41284](https://github.com/advisories/GHSA-gx5v-xp9w-j4cg): Apache Tomcat: Unbounded read in WebDAV LOCK and PROPFIND handling\n\nSeverity: HIGH\n\nAffected dependencies:\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 9.0.118 or later\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 10.1.55 or later\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 11.0.22 or later",
       "evidence": {
         "files": [
           "pom.xml"
         ],
-        "explanation": "[CVE-2026-41284](https://github.com/advisories/GHSA-gx5v-xp9w-j4cg): Apache Tomcat: Unbounded read in WebDAV LOCK and  PROPFIND handling\n\nSeverity: HIGH\n\nAffected dependencies:\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 9.0.118 or later\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 10.1.55 or later\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 11.0.22 or later"
+        "explanation": "[CVE-2026-41284](https://github.com/advisories/GHSA-gx5v-xp9w-j4cg): Apache Tomcat: Unbounded read in WebDAV LOCK and PROPFIND handling\n\nSeverity: HIGH\n\nAffected dependencies:\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 9.0.118 or later\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 10.1.55 or later\n  - org.apache.tomcat.embed:tomcat-embed-core:9.0.83 (pom.xml (transitive dependency)); upgrade to 11.0.22 or later"
       },
       "storyPoint": 1
     },

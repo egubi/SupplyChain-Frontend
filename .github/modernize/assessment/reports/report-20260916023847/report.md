@@ -7,6 +7,7 @@
 | Total Issues | 46 |
 | Mandatory Blockers | 45 |
 | Potential Issues | 0 |
+| Optional Issues | 1 |
 
 ## Component Information
 
@@ -32,7 +33,7 @@
 | CVE-2026-41849: Spring Framework Denial of Service via Integer Overflow in SpEL Expressions | Mandatory | 1 | [1](#CVE-2026-41849_Spring_Framework_Denial_of_Service_via_Integer_Overflow_in_SpEL_Expressions) |
 | CVE-2026-41845: Spring Framework Cross-site Scripting via JavaScriptUtils | Mandatory | 1 | [1](#CVE-2026-41845_Spring_Framework_Cross-site_Scripting_via_JavaScriptUtils) |
 | CVE-2026-41842: Spring Framework Denial of Service via Versioned Resources in Spring MVC and WebFlux | Mandatory | 1 | [1](#CVE-2026-41842_Spring_Framework_Denial_of_Service_via_Versioned_Resources_in_Spring_MVC_and_WebFlux) |
-| CVE-2026-41284: Apache Tomcat: Unbounded read in WebDAV LOCK and  PROPFIND handling | Mandatory | 1 | [1](#CVE-2026-41284_Apache_Tomcat_Unbounded_read_in_WebDAV_LOCK_and_PROPFIND_handling) |
+| CVE-2026-41284: Apache Tomcat: Unbounded read in WebDAV LOCK and PROPFIND handling | Mandatory | 1 | [1](#CVE-2026-41284_Apache_Tomcat_Unbounded_read_in_WebDAV_LOCK_and_PROPFIND_handling) |
 | CVE-2026-43512: Apache Tomcat - Digest authenticator will authenticate any unknown user | Mandatory | 1 | [1](#CVE-2026-43512_Apache_Tomcat_-_Digest_authenticator_will_authenticate_any_unknown_user) |
 | CVE-2026-43513: Apache Tomcat: LockOutRealm treats user names as case-sensitive | Mandatory | 1 | [1](#CVE-2026-43513_Apache_Tomcat_LockOutRealm_treats_user_names_as_case-sensitive) |
 | CVE-2026-43515: Apache Tomcat - Security constraints not correctly applied | Mandatory | 1 | [1](#CVE-2026-43515_Apache_Tomcat_-_Security_constraints_not_correctly_applied) |
@@ -142,7 +143,7 @@
 </details>
 
 <details id="CVE-2026-41284_Apache_Tomcat_Unbounded_read_in_WebDAV_LOCK_and_PROPFIND_handling">
-<summary><b>CVE-2026-41284: Apache Tomcat: Unbounded read in WebDAV LOCK and  PROPFIND handling</b> — affected files</summary>
+<summary><b>CVE-2026-41284: Apache Tomcat: Unbounded read in WebDAV LOCK and PROPFIND handling</b> — affected files</summary>
 
 - `pom.xml`
 
